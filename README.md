@@ -18,7 +18,7 @@ Using data to support smarter business decisions
 ---
 
 🧠 <strong>I’m currently working with:</strong><br><br>
-<strong>Programming</strong>: Java, Python, R <br>
+<strong>Programming</strong>: Python, R, Java <br>
 <strong>Data & Machine Learning</strong>: Pandas, Scikit-learn, Seaborn <br>
 <strong>Visualization</strong>: Tableau
 
