@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Azha Dickson</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h1 align="center">Hi!, I'm Azha Dickson</h1>
+<h3 align="center">Aspiring Supply Chain Analyst</h3>
 
 ---
 
 <div align="center">
 
-🎓 I’m currently a senior at California State University, Northridge, majoring in  
+🎓 California State University, Northridge Graduate with a B.S in Business Administration,
 <strong>Business Analytics</strong> and <strong>Systems & Operations Management</strong>
 
 ---
